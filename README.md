@@ -1,12 +1,12 @@
-📊 Categorical and Continuous Variable Analysis
+##📊 Categorical and Continuous Variable Analysis
 This project contains a Jupyter Notebook that performs basic data analysis on a dataset of COVID-19 deaths. It demonstrates how to handle different types of variables—categorical and continuous—and presents an initial data exploration.
 
-📁 Project Contents
+##📁 Project Contents
 Categorical_and_Continuous_Variable.ipynb: The main Jupyter Notebook that contains all the analysis code.
 
 Provisional_COVID-19_Deaths_by_Sex_and_Age.csv: The raw dataset used for this analysis.
 
-🚀 Getting Started
+##🚀 Getting Started
 Prerequisites
 To run this notebook, you need to have Python and a few key libraries installed. You can install the required libraries using pip:
 
@@ -19,7 +19,7 @@ Open the Jupyter Notebook.
 
 Run the cells in the notebook from top to bottom. The code will load the data, perform the analysis, and display the results.
 
-📝 Analysis Details
+##📝 Analysis Details
 The notebook includes a series of steps to analyze the data, which may include:
 
 Data Loading: Reading the CSV file into a pandas DataFrame.
